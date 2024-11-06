@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/BP_Teleporter.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/TeleporterEffect.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/Teleport_Action_Effect.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CR/MYJB5500SKVSHT3MEOWYNR.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0K/WQYXUHKTOHZG6MHDVM5DO3.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/magic-spell-shoot-sound-effect-236816.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/MagicTeleportation.uasset",
+				"D:/Unreal Projects/CPlusPLusProject/Content/Teleporter/Par_TeleporterEffect.uasset"
+			]
+		}
+	]
+}
