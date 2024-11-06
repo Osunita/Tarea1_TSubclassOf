@@ -1,11 +1,11 @@
-"D:\Unreal Projects\CPlusPLusProject\Source\CPlusPLusProject\Teleporter.cpp"
-/FI"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Definitions.CPlusPLusProject.h"
-/Yu"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Teleporter.cpp.lc.obj"
-/sourceDependencies"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Teleporter.cpp.dep.lc.json"
-@"D:\Unreal Projects\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\CPlusPLusProject.Shared.rsp"
+"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Source\CPlusPLusProject\Teleporter.cpp"
+/FI"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Definitions.CPlusPLusProject.h"
+/Yu"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\CPlusPLusProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Teleporter.cpp.lc.obj"
+/sourceDependencies"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\Teleporter.cpp.dep.lc.json"
+@"D:\Unreal Projects\LocalRepository\Tarea1_TSubclassOf\CPlusPLusProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPlusPLusProject\CPlusPLusProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

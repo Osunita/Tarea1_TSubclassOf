@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj": {}
+    "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1168,14 +1168,14 @@
         }
       }
     },
-    "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj": {
+    "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
+        "projectUniqueName": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
         "projectName": "CPlusPLusProjectModuleRules",
-        "projectPath": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
+        "projectPath": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
         "packagesPath": "C:\\Users\\raosu\\.nuget\\packages\\",
-        "outputPath": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\obj\\",
+        "outputPath": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

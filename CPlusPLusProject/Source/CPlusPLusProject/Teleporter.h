@@ -71,5 +71,5 @@ private:
     FTimerHandle TeleportEffectTimerHandle;
 
     // Variable para evitar bucles de teletransporte
-    bool bIsTeleporting = true;
+    bool bIsTeleporting = false;
 };

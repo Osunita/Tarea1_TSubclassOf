@@ -8568,11 +8568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
+      "projectUniqueName": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
       "projectName": "CPlusPLusProjectModuleRules",
-      "projectPath": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
+      "projectPath": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
       "packagesPath": "C:\\Users\\raosu\\.nuget\\packages\\",
-      "outputPath": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\obj\\",
+      "outputPath": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

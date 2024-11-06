@@ -14,7 +14,7 @@ ATeleporter::ATeleporter()
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	// Configuración del componente de caja
+	// Caja de colisión
 	TeleportBox = CreateDefaultSubobject<UBoxComponent>(TEXT("TeleportBox"));
 	RootComponent = TeleportBox;
 	TeleportBox->SetBoxExtent(FVector(100.0f, 100.0f, 100.0f));
@@ -50,6 +50,7 @@ void ATeleporter::OnTeleportOverlapBegin(UPrimitiveComponent* OverlappedComp, AA
     if (OtherActor && OtherActor->IsA(TeleportableActorClass) && !bIsTeleporting)
     {
         bIsTeleporting = true; // Marcamos que el teletransportador actual está en proceso de teletransporte
+    	DestinationTeleporter->bIsTeleporting = true;
 
         // Desactivamos la colisión de ambos teletransportadores para evitar que el actor entre en el teletransportador de destino
         TeleportBox->SetCollisionEnabled(ECollisionEnabled::NoCollision);
@@ -85,9 +86,6 @@ void ATeleporter::OnTeleportOverlapBegin(UPrimitiveComponent* OverlappedComp, AA
 
                     // Inicia el fade-in después del teletransporte
                     PlayerController->PlayerCameraManager->StartCameraFade(1.0f, 0.0f, 1.25f, FLinearColor::Black, false, true);
-
-                    // Restablecer el flag para permitir futuros teletransportes
-                    bIsTeleporting = true;
 
                     // Restaurar la colisión después del teletransporte
                     TeleportBox->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);

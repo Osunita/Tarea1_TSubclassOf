@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\teleporter.gen.cpp",
+        "Source": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\teleporter.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h",
-            "d:\\unreal projects\\cplusplusproject\\source\\cplusplusproject\\teleporter.h",
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h",
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\source\\cplusplusproject\\teleporter.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\fx\\niagara\\source\\niagara\\public\\niagaracomponent.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\fx\\niagara\\source\\niagara\\public\\niagaradefines.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\fx\\niagara\\source\\niagara\\public\\niagarascalabilitystate.h",
@@ -31,7 +31,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\emitter.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\particlesystemcomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\fx\\niagara\\intermediate\\build\\win64\\unrealeditor\\inc\\niagara\\uht\\niagaracomponent.generated.h",
-            "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\teleporter.generated.h"
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\teleporter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

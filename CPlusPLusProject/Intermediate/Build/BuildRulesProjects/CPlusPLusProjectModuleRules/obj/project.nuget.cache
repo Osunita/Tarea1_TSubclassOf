@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODLgLfHzmrs=",
+  "dgSpecHash": "g5cBN9BmDGA=",
   "success": true,
-  "projectFilePath": "D:\\Unreal Projects\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
+  "projectFilePath": "D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Intermediate\\Build\\BuildRulesProjects\\CPlusPLusProjectModuleRules\\CPlusPLusProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raosu\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\raosu\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",

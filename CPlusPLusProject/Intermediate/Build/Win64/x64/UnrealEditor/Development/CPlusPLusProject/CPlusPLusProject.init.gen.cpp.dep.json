@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusproject.init.gen.cpp",
+        "Source": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusproject.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h"
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

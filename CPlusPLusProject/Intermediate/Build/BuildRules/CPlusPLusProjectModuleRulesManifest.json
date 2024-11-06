@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal Projects\\CPlusPLusProject\\Source\\CPlusPLusProject\\CPlusPLusProject.Build.cs",
-		"D:\\Unreal Projects\\CPlusPLusProject\\Source\\CPlusPLusProject.Target.cs",
-		"D:\\Unreal Projects\\CPlusPLusProject\\Source\\CPlusPLusProjectEditor.Target.cs"
+		"D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Source\\CPlusPLusProject\\CPlusPLusProject.Build.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Source\\CPlusPLusProject.Target.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea1_TSubclassOf\\CPlusPLusProject\\Source\\CPlusPLusProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

@@ -1,2 +1,2 @@
 // Compiler: 14.41.34120
-#include "D:/Unreal Projects/CPlusPLusProject/Intermediate/Build/Win64/x64/CPlusPLusProjectEditor/Development/Engine/SharedPCH.Engine.Cpp20.h"
+#include "D:/Unreal Projects/LocalRepository/Tarea1_TSubclassOf/CPlusPLusProject/Intermediate/Build/Win64/x64/CPlusPLusProjectEditor/Development/Engine/SharedPCH.Engine.Cpp20.h"

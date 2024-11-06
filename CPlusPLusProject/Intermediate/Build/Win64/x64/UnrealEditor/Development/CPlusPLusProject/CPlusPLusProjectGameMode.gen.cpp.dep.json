@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusprojectgamemode.gen.cpp",
+        "Source": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusprojectgamemode.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\cplusplusprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h",
-            "d:\\unreal projects\\cplusplusproject\\source\\cplusplusproject\\cplusplusprojectgamemode.h",
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cplusplusproject\\definitions.cplusplusproject.h",
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\source\\cplusplusproject\\cplusplusprojectgamemode.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "d:\\unreal projects\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusprojectgamemode.generated.h"
+            "d:\\unreal projects\\localrepository\\tarea1_tsubclassof\\cplusplusproject\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplusproject\\uht\\cplusplusprojectgamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
